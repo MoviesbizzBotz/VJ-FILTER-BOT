@@ -379,27 +379,8 @@ async def start(client, message):
                     await log_msg.reply_text(
                         text=f"•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ꜰᴏʀ ɪᴅ #{user_id} \n•• ᴜꜱᴇʀɴᴀᴍᴇ : {username} \n\n•• ᖴᎥᒪᗴ Nᗩᗰᗴ : {fileName}",
                         quote=True,
-                        disable_web_page_preview=True,
-                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 Fast Download 🚀", url=download), # we download Link
-                                                         ],[
-                                                            InlineKeyboardButton('🖥️ Watch online 🖥️', url=stream)]])  # web stream Link
+                        disable_web_page_preview=True
                     )
-                if STREAM_MODE == True:
-                    button = [[
-                        InlineKeyboardButton('Bᴏᴛ Oᴡɴᴇʀ', url="https://t.me/moviesbizz_yt"),
-                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                    ],[
-                        InlineKeyboardButton("🚀 Fast Download 🚀", url=download),  # we download Link
-                    ],[
-                        InlineKeyboardButton('🖥️ Watch online 🖥️', url=stream)
-                    ]]
-                else:
-                    button = [[
-                        InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/MoviesBizzChat'),
-                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/MoviEsBizzMalaYalaM_HD')
-                    ],[
-                        InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/moviesbizz_yt")
-                    ]]
                 try:
                     p = await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False, reply_markup=InlineKeyboardMarkup(button))
                     filesarr.append(p)
