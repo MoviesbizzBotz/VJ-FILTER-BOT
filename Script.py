@@ -208,7 +208,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b><code>{file_name}</code> \n\n🌟༺ ──•◈•─ ─•◈•──༻🌟
 ➧ പുതിയ സിനിമകൾ വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
 
-🔊 Group: @MoviEsBizzCHAT
+🔊 Group: @MoviEsBizzCHAT1
  🔊 cнannel: @MoviEsBizzMalaYalaM_HD
 
 🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️</b>""" 
