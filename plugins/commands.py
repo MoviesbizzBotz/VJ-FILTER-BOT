@@ -307,8 +307,8 @@ async def start(client, message):
                     ]]
                 else:
                     button = [[
-                        InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/MoviesBizzChat'),
-                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/MoviEsBizzMalaYalaM_HD')
+                        InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/MoviesBizzChat1'),
+                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/MoviEsBizzMalaYalaM_NEW')
                     ],[
                         InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/moviesbizz_yt")
                     ]]
@@ -415,8 +415,8 @@ async def start(client, message):
                     ]]
                 else:
                     button = [[
-                        InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/MoviesBizzChat'),
-                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/MoviEsBizzMalaYalaM_HD')
+                        InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/MoviesBizzChat1'),
+                        InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/MoviEsBizzMalaYalaM_NEW')
                     ],[
                         InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/moviesbizz_yt")
                     ]]
