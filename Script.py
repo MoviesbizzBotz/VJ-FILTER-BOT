@@ -209,7 +209,7 @@ Nᴀᴍᴇ - {}"""
 ➧ പുതിയ സിനിമകൾ വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
 
 🔊 Group: @MoviEsBizzCHAT1
- 🔊 cнannel: @MoviEsBizzMalaYalaM_HD
+ 🔊 cнannel: @MoviEsBizzMalaYalaM_NEW
 
 🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️</b>""" 
 
